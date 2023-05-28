@@ -4,7 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnionFind.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lift.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/algs4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-coursera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-lift.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomizedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distinct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicates.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediumTale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/permutation8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tale.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinyTale.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../percolaton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolaton/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../percolaton/Percolation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,60 +141,26 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Coursera",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "库",
-    "project.structure.proportion": "0.15",
+    "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.PercolationStats">
-    <configuration name="InteractivePercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InteractivePercolationVisualizer" />
+  <component name="RunManager" selected="应用程序.Deque">
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PercolationStats" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PercolationVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="MAIN_CLASS_NAME" value="PercolationVisualizer" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAlgs4 (1)" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TestAlgs4" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAlgs4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAlgs4" />
-      <module name="Algorithms, Part I" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAlgs4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAlgs4" />
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
       <module name="Algorithms, Part I" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,23 +168,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.InteractivePercolationVisualizer" />
-        <item itemvalue="应用程序.TestAlgs4 (2)" />
-        <item itemvalue="应用程序.PercolationVisualizer" />
-        <item itemvalue="应用程序.TestAlgs4" />
+        <item itemvalue="应用程序.Deque" />
+        <item itemvalue="应用程序.RandomizedQueue" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <created>1684572422553</created>
+      <created>1685260854719</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684572422553</updated>
-      <workItem from="1684572423609" duration="4316000" />
-      <workItem from="1684578630389" duration="8159000" />
-      <workItem from="1684587175186" duration="2314000" />
+      <updated>1685260854719</updated>
+      <workItem from="1685260860688" duration="8457000" />
     </task>
     <servers />
   </component>
@@ -204,12 +222,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="percolation.numberOfOpenSites()" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
