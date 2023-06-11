@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmsPartI/hello" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AlgorithmsPartI/percolaton" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/hello/.idea/fileTemplates/code" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/hello/.idea/fileTemplates/j2ee" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/hello/.idea/runConfigurations" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/percolaton/.idea/fileTemplates/code" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/percolaton/.idea/fileTemplates/j2ee" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/queues/.idea/fileTemplates/code" />
+      <excludeFolder url="file://$MODULE_DIR$/AlgorithmsPartI/queues/.idea/fileTemplates/j2ee" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name=".lift1" level="project" />
+    <orderEntry type="library" name=".lift" level="project" />
+  </component>
+</module>

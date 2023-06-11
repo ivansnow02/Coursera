@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AlgorithmsPartI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlgorithmsPartI/percolaton.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AlgorithmsPartI/hello.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
