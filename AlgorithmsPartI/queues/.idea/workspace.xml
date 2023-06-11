@@ -4,62 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../UnionFind.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeInsightSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lift.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Algorithms__Part_I.xml.old" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-coursera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-lift.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/checkstyle-suppressions.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.lift/spotbugs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomizedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distinct.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicates.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediumTale.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/permutation8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tale.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tinyTale.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/includes/File Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/AnnotationType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/fileTemplates/internal/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../percolaton/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../percolaton/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../percolaton/Percolation.java" afterDir="false" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +88,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Coursera/AlgorithmsPartI/collinear",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -180,8 +128,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685260854719</updated>
-      <workItem from="1685260860688" duration="8457000" />
+      <workItem from="1685260860688" duration="8839000" />
+      <workItem from="1685519413098" duration="1913000" />
+      <workItem from="1686466101565" duration="19000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1685269633044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685269633044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -222,5 +180,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
